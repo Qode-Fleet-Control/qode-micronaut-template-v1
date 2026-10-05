@@ -1,0 +1,14 @@
+.git
+.github
+.fleet
+.fleet-deploy.log
+*.log
+.env
+.env.*
+target
+build
+out
+.gradle
+.micronaut
+.idea
+.vscode
